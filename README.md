@@ -1,5 +1,7 @@
 # Advent of Code 2020
 
+Project structure from here: https://github.com/coriolinus/adventofcode-2020
+
 Solutions to the exercises at <https://adventofcode.com/2020/>.
 
 This year I'm playing with minimizing scaffolding by generating each day as a subproject
